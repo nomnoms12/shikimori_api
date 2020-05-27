@@ -27,7 +27,8 @@ api.animes.GET(search='KonoSuba', kind='movie')  # GET /api/animes?search=KonoSu
 api.animes(1).GET()                              # GET /api/animes/1
 api.animes(1).screenshots.GET()                  # GET /api/animes/1/screenshots
 ```
-##OAuth
+
+## OAuth
 ```python
 import json
 
