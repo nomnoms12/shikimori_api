@@ -1,7 +1,7 @@
 # shikimori_api
 [![Build Status](https://travis-ci.com/nomnoms12/shikimori_api.svg?branch=master)](https://travis-ci.com/nomnoms12/shikimori_api)
 [![Coverage Status](https://coveralls.io/repos/github/nomnoms12/shikimori_api/badge.svg?branch=master)](https://coveralls.io/github/nomnoms12/shikimori_api?branch=master)
-[![License](https://img.shields.io/github/license/nomnoms12/shikimori_api?color=blueviolet)](/LICENSE)
+[![License](https://img.shields.io/github/license/nomnoms12/shikimori_api?color=blueviolet)](https://github.com/nomnoms12/shikimori_api/blob/master/LICENSE)
 [![Shikimori Status](https://img.shields.io/website?url=https%3A%2F%2Fshikimori.one)](https://shikimori.one)
 
 Unofficial wrapper for the [Shikimori API](https://shikimori.one/api/doc)
