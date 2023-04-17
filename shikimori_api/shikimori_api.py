@@ -6,7 +6,7 @@ from requests_oauthlib import OAuth2Session
 
 
 class Shikimori:
-    SHIKIMORI_URL: str = 'https://shikimori.one'
+    SHIKIMORI_URL: str = 'https://shikimori.me'
     _TOKEN_URL = SHIKIMORI_URL + '/oauth/token'
 
     def __init__(self,
